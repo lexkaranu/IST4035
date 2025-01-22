@@ -1,0 +1,32 @@
+<table>
+   <tr>
+     <td>
+        <img scr="afrocent1.jpg" alt="Castle"/>
+     </td>
+     <td>
+      <h2>Castle</h2>
+      <p>Lewes,UK</p>
+      <p>Photo by Michele Brooks</p>
+      <p>Built in 1069, the castle has aq tremendous
+         view of the town of Lewes and the
+         surrounding countryside.
+      </p>
+
+       <h3>Other images by Michele Brooks</h3>
+
+       <table>
+          <tr>
+            <td><img src="afrocent2.jpg" /></td>
+            <td><img src"afrocent3.jpg" /></td>
+        </tr>
+        <tr>
+          <td><img src="afrocent4.jpg" /></td>
+          <td><img src="afrocent5.jpg" /></td>
+    </tr>
+    </table>
+    </td>
+    </tr>
+    </table>
+          
+
+        
