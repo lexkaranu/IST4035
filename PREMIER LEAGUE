@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Premier League Results</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Premier League Results</h1>
+        
+      
+        <table>
+            <thead>
+                <tr>
+                    <th>Team</th>
+                    <th>Logo</th>
+                    <th>Last Result</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr id="Arsenal">
+                    <td>Arsenal</td>
+                    <td><img src="Arsenallogo.jpg" alt="Arsenal Logo" class="team-logo"></td>
+                    <td>Win 3-1</td>
+                </tr>
+                <tr id="Aston Villa">
+                    <td>Aston Villa  </td>
+                    <td><img src="Aston Villalogo.jpg" alt="Aston Villa Logo" class="team-logo"></td>
+                    <td>Loss 2-0</td>
+                </tr>
+                <tr id="Bournemouth">
+                    <td>Bournemouth </td>
+                    <td><img src="Bournemouth logo.jpg" alt="Bournemouth  Logo" class="team-logo"></td>
+                    <td>Draw 1-1</td>
+                </tr>
+                <tr id="Brentford">
+                    <td>Brentford</td>
+                    <td><img src="team4-logo.jpg" alt="Team 4 Logo" class="team-logo"></td>
+                    <td>Win 4-2</td>
+                </tr>
+                <tr id="team5">
+                    <td>Team 5</td>
+                    <td><img src="team5-logo.jpg" alt="Team 5 Logo" class="team-logo"></td>
+                    <td>Win 2-0</td>
+                </tr>
+                <!-- Add more teams here following the same structure -->
+            </tbody>
+        </table>
+        
+        <!-- Button to change background color -->
+        <button onclick="changeColor()">Change Background Colors</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
