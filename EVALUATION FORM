@@ -8,22 +8,22 @@
 <h1>USIU Advanced Web Development Form</h1>
 <form action="#" method="post">
 <p><h2>Full Name:</h2></p>
-<input type="text" Name="fullname" placeholder="Full Name"
+<input type="text" Name="Enter your full name" placeholder="Full Name"
 
 <p><h3>Student ID:</h3></p>
-<input type="text" Name="Student ID" placeholder="Student ID"
+<input type="text" Name="Enter your USIU Student ID" placeholder="Student ID"
 
 <p><h4>USIU Email Address:</h4></p>
-<input type="text" Name="USIU Email Address" placeholder="USIU Email Address"
+<input type="text" Name="Enter your USIU Email Address" placeholder="USIU Email Address"
 
 <p><h5>GitHub Profile URL:</h5></p>
-<input type="text" Name="GitHub Profile URL" placeholder="GitHub Profile URL"
+<input type="text" Name="Enter your GitHub Profile URL" placeholder="GitHub Profile URL"
 
 <p><h6>1.Nairobi-Specific Problem Solving:</h6></p>
-<input type="text" Name="1.Nairobi-Specific Problem Solving" placeholder="1.Nairobi-Specific Problem Solving"
+<input type="text" Name="Describe your API security and scalability solution for  Nairobi matatu integration" placeholder="1.Nairobi-Specific Problem Solving"
 
 <p><h7>Select the best JavaScript framework for real-time Nairobi news aggregation:</h7></p>
-<input type="text" Name="Select the best JavaScript framework for real-time Nairobi news aggregation" placeholder="Select the best JavaScript framework for real-time Nairobi news aggregation"
+<input type="text" Name="React.js" placeholder="Select the best JavaScript framework for real-time Nairobi news aggregation"
 
 
 </form>
