@@ -1,0 +1,10 @@
+let Student=
+{
+firstname:'John'
+lastname:'Doe'
+age:'21'
+course :Computer Science
+
+}
+
+document.getElement
