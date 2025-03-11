@@ -1,0 +1,19 @@
+
+
+function person(name,age)
+{
+this.name=name;
+this.age=age;
+}
+
+
+let Person 1=new Person("Mike",30);
+let Person 2 = new Person("Sarah",28);
+Console.log(person1.name,person2.name
+
+document.getElementbyId("demo")
+document.getElementbyId("demo2")
+document.getElementbyId("demo3")
+
+
+</script>
